@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" role="img" aria-label="غلاف كتاب">
+  <rect width="600" height="800" fill="#dfe8e4"/>
+  <path d="M140 150h320v500H140z" fill="#f8fbf8" stroke="#173f3a" stroke-width="10"/>
+  <path d="M190 270h220M190 330h170M190 450h220M190 510h150" stroke="#c47b55" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="390" cy="190" r="28" fill="#c47b55"/>
+</svg>
